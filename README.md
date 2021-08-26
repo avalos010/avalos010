@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @avalos010
+- 👋 Hi, I’m JLuis 
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on anything frontend
 - 📫 How to reach me email me at luizavalos40@gmail.com
 
