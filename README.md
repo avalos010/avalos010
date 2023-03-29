@@ -9,3 +9,5 @@ As a curious and innovative individual, I'm always eager to explore new technolo
 Moreover, I'm also deeply committed to improving my eye for design, and spend ample time studying various UI/UX resources available on YouTube. Learning doesn't have to be boring - I believe that by combining learning with relaxation, we can unlock our full potential and make great strides towards our professional goals.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=avalos010&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avalos010&langs_count=5&theme=radical)](https://github.com/avalos010/github-readme-stats)
