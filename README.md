@@ -7,3 +7,5 @@ My journey as a Front-end Software Engineer has been nothing short of exciting -
 As a curious and innovative individual, I'm always eager to explore new technologies and tools that can enhance my productivity and creativity. Recently, I've been deeply intrigued by the power of Firebase, and have been spending much of my free time delving into its intricacies.
 
 Moreover, I'm also deeply committed to improving my eye for design, and spend ample time studying various UI/UX resources available on YouTube. Learning doesn't have to be boring - I believe that by combining learning with relaxation, we can unlock our full potential and make great strides towards our professional goals.
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=avalos010&count_private=true&show_icons=true&theme=radical)
