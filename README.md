@@ -4,6 +4,4 @@ A passionate front-end developer with 3 years of experience under my belt, curre
 
 My journey as a Front-end Software Engineer has been nothing short of exciting - I love the thrill of building awesome things from scratch, and take great pride in my ability to debug and resolve technical debt issues quickly and effectively.
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=avalos010&count_private=true&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avalos010&langs_count=5&theme=radical)](https://github.com/avalos010/github-readme-stats)
