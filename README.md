@@ -15,7 +15,7 @@ I love building beautiful, interactive web apps that deliver real value to users
 ## 📬 Contact Me
 
 Want to collaborate or chat?  
-Feel free to reach out via my [Contact Form](https://joseluisdev.com/contact).
+Feel free to reach out via my [Contact Form](https://portfolio-avalos010.vercel.app/contact).
 
 ---
 
