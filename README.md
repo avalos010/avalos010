@@ -1,6 +1,6 @@
 # Hi there, I'm Jose 👋
 
-I'm a **Full Stack Engineer** based in Chicago who ships production-ready web applications end-to-end — from database schema to polished UI. I specialize in **Next.js**, **TypeScript**, **Supabase/PostgreSQL**, and **FastAPI**, and I care deeply about clean architecture, test coverage, and CI/CD pipelines that actually work.
+I'm a **Full Stack Engineer** based in Chicago who ships production-ready web applications end-to-end from database schema to polished UI. I specialize in **Next.js**, **TypeScript**, **Supabase/PostgreSQL**, and **FastAPI**, and I care deeply about clean architecture, test coverage, and CI/CD pipelines that actually work.
 
 ---
 
