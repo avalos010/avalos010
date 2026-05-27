@@ -18,23 +18,18 @@ I'm a **Full Stack Engineer** based in Chicago who ships production-ready web ap
 
 ## 🚀 Featured Projects
 
-### [sportsbook-odds-comparer](https://github.com/avalos010/sportsbook-odds-comparer) — TypeScript · Next.js 14 · SWR
-Real-time odds comparison across multiple sportsbooks with player props, dark/light theming, Radix UI, and a full Cypress E2E test suite with GitHub Actions CI. ⭐ 44
+### [sportsbook-odds-comparer](https://github.com/avalos010/sportsbook-odds-comparer) — TypeScript · Next.js · SWR · Axios 
+Real-time odds comparison across multiple sportsbooks with player props, dark/light theming, Radix UI, and a full Cypress E2E test suite with GitHub Actions CI.
 
-### [chat-py](https://github.com/avalos010/chat-py) — FastAPI · PostgreSQL · WebSockets · TypeScript
+### [chat-py](https://github.com/avalos010/chat-py) — FastAPI · PostgreSQL · WebSockets · TypeScript · jinja2 · Python
 Full-stack real-time chat with WebSocket messaging, HttpOnly cookie auth, typing indicators, read receipts, and friend management. 48-test suite covering unit, integration, and E2E.
 
-### [scheduler-booker](https://github.com/avalos010/scheduler-booker) — Next.js 15 · Supabase · TypeScript
+### [scheduler-booker](https://github.com/avalos010/scheduler-booker) — Next.js · Supabase · TypeScript · PostgreSQL
 Production-grade scheduling SaaS: multi-step onboarding, Supabase Auth, appointment management with time-based business logic, public booking pages, and CI with multi-Node test gates.
 
-### [AI-Discord-bot](https://github.com/avalos010/AI-Discord-bot) — TypeScript · Groq API · Pollinations.ai
+### [AI-Discord-bot](https://github.com/avalos010/AI-Discord-bot) — TypeScript · Discord · Node
 AI-powered Discord bot with LLM chat (Groq/Llama 3.3) and AI image generation. Modular command architecture built for extensibility.
 
----
-
-## 📊 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avalos010&langs_count=6&theme=radical&layout=compact)](https://github.com/avalos010/github-readme-stats)
 
 ---
 
