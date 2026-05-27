@@ -6,9 +6,9 @@ I'm a **Full Stack Engineer** based in Chicago who ships production-ready web ap
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js 14/15 · React 18/19 · TypeScript · Tailwind CSS · Radix UI · SWR · React Hook Form + Zod
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Radix UI · SWR · React Hook Form + Zod
 
-**Backend:** FastAPI (Python) · PostgreSQL · Supabase · REST APIs · WebSockets · JWT / HttpOnly cookie auth
+**Backend:** Python · FastAPI · PostgreSQL · Supabase · REST APIs · WebSockets · JWT / HttpOnly cookie auth
 
 **Testing & Quality:** Jest · React Testing Library · Cypress (E2E) · Pytest (unit + integration) · GitHub Actions CI/CD
 
